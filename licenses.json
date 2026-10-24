@@ -1,3 +1,9 @@
 {
-    "licencias": {}
+    "licencias": {
+        "DOMI-72B7545F": {
+            "expire": "2026-11-23T11:19:27.334667",
+            "device_id": null,
+            "activo": true
+        }
+    }
 }
