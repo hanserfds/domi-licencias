@@ -26,7 +26,7 @@
         "DOMI-A4E15283": {
             "expire": "2026-11-23T10:51:32.418619",
             "device_id": null,
-            "activo": true
+            "activo": false
         }
     }
 }
