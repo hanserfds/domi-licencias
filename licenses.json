@@ -1,11 +1,5 @@
 {
     "licencias": {
-        "DOMI-69029E8F": {
-            "expire": "2026-11-22T02:49:12.606083",
-            "device_id": null,
-            "created_at": "2026-10-23T02:49:12.606111",
-            "activo": false
-        },
         "DOMI-979DD254": {
             "expire": "2026-11-22T02:55:24.022263",
             "device_id": null,
